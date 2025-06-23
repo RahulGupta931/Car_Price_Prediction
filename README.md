@@ -41,6 +41,12 @@ The dataset includes:
    - Perform hyperparameter tuning.
 3. **Evaluation**:
    - Metrics: R² Score.
+## Screenshot
+![Screenshot 2025-06-23 125834](https://github.com/user-attachments/assets/e578824c-f2ec-4786-bc5e-f5675fa1a464)
+![Screenshot 2025-06-23 125843](https://github.com/user-attachments/assets/9b3ed8b1-1200-4d81-ad8f-d62f3af0e55d)
+![Screenshot 2025-06-23 125852](https://github.com/user-attachments/assets/c3f19c9d-f547-468a-b4b0-c177128c45b3)
+![Screenshot 2025-06-23 125824](https://github.com/user-attachments/assets/0106ecb4-8be1-46f7-838f-90115086ba30)
+
 
 ## Results
 - Achieved **90% accuracy** on test data.
